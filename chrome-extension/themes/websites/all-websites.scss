@@ -79,7 +79,7 @@ div.drk_dialog,
 
 // Buttons
 button, input[type="submit"], input[type="button"] {
-	background-color: $theme-button-background !important;
+	background-color: $theme-button-background;
 	color: $theme-button-text !important;
 	border-color: $theme-border !important;
 	span {
